@@ -1,0 +1,2 @@
+# libadapter
+libadapter package
